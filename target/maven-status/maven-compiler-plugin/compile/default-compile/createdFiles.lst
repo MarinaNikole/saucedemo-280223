@@ -1,0 +1,10 @@
+BasePage.class
+SideBarPage.class
+CheckoutCompletePage.class
+HeaderPage.class
+User.class
+InventoryPage.class
+LoginPage.class
+CartPage.class
+CheckoutOverviewPage.class
+CheckoutYourInformationPage.class
